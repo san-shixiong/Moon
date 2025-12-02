@@ -1,0 +1,13 @@
+# Service Worker files
+public/sw.js
+public/workbox-*.js
+
+# Build output
+.next/
+out/
+
+# Node modules
+node_modules/
+
+# Test coverage
+coverage/
